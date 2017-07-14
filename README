@@ -1,0 +1,7 @@
+This project is an extension of a simple card generator for use in the Momir Basic format.
+
+The main program takes a CMC value and a set of permanent types and randomly selects a card of the requested CMC and at least one of the
+requested types. This card name is then displayed and optionally copied to the user's clipboard.
+
+A supporting program takes an MTG JSON file and cleans it up so as to be read more easily by the main program. In future versions this
+functionality will be incoroprated into the primary program.
